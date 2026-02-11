@@ -21,7 +21,3 @@
 ## Experiments performed
 - Scaling: ran on 2 core nodes and 4 core nodes; times recorded in `job_runtimes.log`.
 - Input size: small vs large datasets; results in `experiment_results.txt`.
-
-## Deliverables
-- This code repo (mapper/reducer/README)
-- Short demo showing cluster config, job submission, job output, and one experiment.
